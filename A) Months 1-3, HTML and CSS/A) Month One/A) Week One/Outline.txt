@@ -12,7 +12,7 @@ https://internetingishard.com/html-and-css/introduction/
 
 Week One Challenge:
 
-Build a simple biography website, don't worry about making it beutiful with CSS, that will come later.  
+Build a simple biography website, don't worry about making it beautiful with CSS, that will come later.  
 
 Challenge Guideline:
 
