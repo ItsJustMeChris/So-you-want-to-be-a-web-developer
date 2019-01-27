@@ -1,6 +1,23 @@
-### Months 1-3, HTML & CSS.
+Week two, let's make things colorful.  
 
-During these months, your primary focus will be learning HTML and CSS, building simple, static web pages, where the main goal is learning how to organize and structure data. Your goal should by the end of the first three months should be:
-- The developer is able to build simple static web pages confidently.
-- The developer is comfortable enough to use resources to find information on features of HTML and CSS, and implement them into a website without the need to build websites around the concept.
-- The developer is knoweldgable enough to build static websites which are responsive and mostly user friendly.
+This weeks focus should be to familiarize yourself with CSS and it's syntax. 
+
+Useful resources for getting started with CSS:
+
+https://internetingishard.com/html-and-css/hello-css/
+https://www.w3schools.com/css/
+https://www.csstutorial.net/
+http://www.htmldog.com/guides/css/
+
+Week Two Challenge:
+
+Let's build upon your biography page from (Week One), incorporate your favorite colors and make it yours.  
+
+Challenge Guideline:
+
+Style your name/nickname to look special, it is yours after all!
+Style your image, would it look better in a circle, should it have a border?
+Style your hobbies, try to make them nice to look at, make one stand out above the rest, make them look as special as you feel about them!
+Style your introduction text to represent you, should it be in it's own box, have a larger font because it's your story, maybe the first letter should stand out like a news article?
+
+Try to build upon your website with as little external help as possible, but don't be afraid to use resources to help you get it done.
