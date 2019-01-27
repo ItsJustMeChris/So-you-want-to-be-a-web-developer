@@ -1,0 +1,7 @@
+### Months 6-8, Front End Frameworks.
+
+During these months, you will learn about Front End Frameworks and how to use them to build fast, interactive, single page applications.
+
+By the end of these months, the developer should anticipate being able to:
+- Build single page applications.
+- Use user input to modify the DOM.

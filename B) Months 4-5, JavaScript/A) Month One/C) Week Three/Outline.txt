@@ -1,0 +1,8 @@
+### Months 4-5, JavaScript.
+
+I have chosen to allocate one to two months to JavaScript, because it is a powerful, robust language which could have it's own year dedicated to it. The time can be split from two months to one month, if you feel that you will need extra time learning something else. That being said, JavaScript is the main thing you will be using in Front End Frameworks as well, my recommendation is to use the full two months and then also plan on using NodeJS for a back end language.
+
+During these two months, the developer will learn how to use JavaScript to manipulate the DOM based on user interaction, take user input and utilize it, as well as learn some in depth concepts of programming with JavaScript. By the end of these months, the developer can expect to:
+- Be able to utilize user input to perform actions.
+- Manipulate the dom based on user interaction.
+- Write clean and elegant JavaScript.
