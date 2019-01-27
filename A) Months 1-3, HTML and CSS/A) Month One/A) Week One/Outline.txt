@@ -1,6 +1,24 @@
-### Months 1-3, HTML & CSS.
+Week one, your first project.  
 
-During these months, your primary focus will be learning HTML and CSS, building simple, static web pages, where the main goal is learning how to organize and structure data. Your goal should by the end of the first three months should be:
-- The developer is able to build simple static web pages confidently.
-- The developer is comfortable enough to use resources to find information on features of HTML and CSS, and implement them into a website without the need to build websites around the concept.
-- The developer is knoweldgable enough to build static websites which are responsive and mostly user friendly.
+This weeks focus should be to familiarize yourself with HTML and it's syntax. 
+
+Useful resources for getting started with HTML:
+
+https://html.com/
+https://www.w3schools.com/html/
+https://internetingishard.com/html-and-css/links-and-images/
+https://internetingishard.com/html-and-css/basic-web-pages/
+https://internetingishard.com/html-and-css/introduction/
+
+Week One Challenge:
+
+Build a simple biography website, don't worry about making it beutiful with CSS, that will come later.  
+
+Challenge Guideline:
+
+Include your name or nickname.
+Include an image.
+Include some fun facts about yourself; hobbies, abilities, countries you've visited, anything!
+Include a short story about why you want to be a web developer, what got you interested in web development?
+
+Try to build this website with as little external help as possible, but don't be afraid to use resources to help you get it done.
