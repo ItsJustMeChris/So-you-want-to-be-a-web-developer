@@ -1,6 +1,24 @@
-### Months 1-3, HTML & CSS.
+Week three, data organization. 
 
-During these months, your primary focus will be learning HTML and CSS, building simple, static web pages, where the main goal is learning how to organize and structure data. Your goal should by the end of the first three months should be:
-- The developer is able to build simple static web pages confidently.
-- The developer is comfortable enough to use resources to find information on features of HTML and CSS, and implement them into a website without the need to build websites around the concept.
-- The developer is knoweldgable enough to build static websites which are responsive and mostly user friendly.
+This week the focus will be learning the different HTML tags that are related to data organization and display.  
+
+Useful resources for content structure. 
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+https://www.w3schools.com/html/html_layout.asp
+https://openclassrooms.com/en/courses/2479876-build-your-website-with-html5-and-css3/2490272-organizing-your-text
+https://developer.paciellogroup.com/blog/2015/09/easy-content-organisation-with-html5/
+
+Week Three Challenge: 
+
+Try to extend your portfolio to use HTML tags to increase readability, try to implement: a table, an ordered list, an unordered list, and some paragraphs. 
+
+Challenge Guideline:
+
+Include some form of list, <ul> or <ol> 
+Try to include a <table> in your project
+
+Bonus Challenge:
+
+Try to use divs and CSS to create your own columns. 
+
