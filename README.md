@@ -45,3 +45,7 @@ During these months, you will learn how to build back end web applications, whic
 ### Month 12, The Big Project
 
 Well, you made it this far, you should pat yourself on the back, because this month is all about you! You will use the final month to produce your first large scale web application using the latest web technologies. Your goal should be to build something that you are proud to call yours, this will be the highlight of your resume! By the end of this final month, the developer should expect to be a prime candidate for hire, I wish you luck!
+
+### Final Thoughts
+
+I want to create a small list of projects that will help people get introduced to web development, I've started coming up with some 'simple' projects, and currently am trying to come up with ways to keep them quick and easy, but still educational.  These are simply recommendations from my point of view to try and help others that may want project ideas.  My goal is to start off each Month with a generalized project, and build upon it throughout the weeks of the month, this will keep you in a familiar environment while learning, and also assist you in coming up with projects.  I, at the time of writing this, am very busy with school and other personal things, so I highly encourage others to try and come up with projects to add or ways to improve the existing ones!  I appreciate any help, and hope that this is able to help others.  Thank you, enjoy your learning!
